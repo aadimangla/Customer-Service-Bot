@@ -208,7 +208,7 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 [issues-shield]: https://img.shields.io/github/issues/aadimangla/Rasa-Chatbot.svg?style=flat-square
 [issues-url]: https://github.com/aadimangla/Rasa-Chatbot/issues
 [license-shield]: https://img.shields.io/github/license/aadimangla/Rasa-Chatbot.svg?style=flat-square
-[license-url]: https://github.com/aadimangla/Rasa-Chatbot/blob/master/LICENSE
+[license-url]: https://github.com/aadimangla/Rasa-Chatbot/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/aadimangla
 [product-screenshot]: images/screenshot.png
