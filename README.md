@@ -52,7 +52,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Product Name Screen Shot][product-screenshot]](images/product.png)
 
 Customer service bot is a bot that uses artificial intelligence (AI) and machine learning to answer basic customer questions via a business messenger. It can recognize and answer multiple forms of the same question and can be trained to give instant responses using your preferred voice or text.
 
