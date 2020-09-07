@@ -30,7 +30,7 @@
   </p>
 </p>
 
-
+---
 
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
@@ -47,7 +47,7 @@
 * [Contact](#contact)
 * [Acknowledgements](#acknowledgements)
 
-
+---
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
@@ -69,14 +69,14 @@ Here's why:
 Chatbots and AI received a major facelift in recent years. The once futuristic-yet-a-pain-in-the-butt digital assistants are being fueled with more data to better serve customers and drive sales.
 
 Is it worth the time and money investment? It depends on your industry and company needs. But today’s sophisticated bot infrastructures have a lot to offer that most businesses can benefit from.
-
+---
 ### Built With
 This chatbot was build using following frameworks, libraries and softwares.
 * [RASA](https://rasa.com/)
 * [Spacy](https://spacy.io/)
 * [NLTK](https://www.nltk.org/)
 
-
+---
 
 <!-- GETTING STARTED -->
 ## Getting Started
@@ -130,7 +130,7 @@ $ rasa shell
 ```
 
 
-
+---
 <!-- USAGE EXAMPLES -->
 ## Usage
 
@@ -150,14 +150,14 @@ Here are the key areas for how customer service chatbots help businesses to deli
 
 _For more examples, please refer to the [Article](https://chatbotsmagazine.com/top-5-benefits-with-using-chatbots-for-your-business-159a0cee7d8a)_
 
-
+---
 
 <!-- ROADMAP -->
 ## Roadmap
 
 See the [open issues](https://github.com/aadimangla/Rasa-Chatbot/issues) for a list of proposed features (and known issues).
 
-
+---
 
 <!-- CONTRIBUTING -->
 ## Contributing
@@ -171,14 +171,19 @@ Contributions are what make the open source community such an amazing place to b
 5. Open a Pull Request
 
 
-
+---
 <!-- LICENSE -->
+
+
 ## License
 
-Distributed under the MIT License. See `LICENSE` for more information.
+[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
+
+- **[MIT license](http://opensource.org/licenses/mit-license.php)**
+- Copyright 2020 © <a href="http://adityamangla.com" target="_blank">Aditya Mangla</a>.
 
 
-
+---
 <!-- CONTACT -->
 ## Contact
 
