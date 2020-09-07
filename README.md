@@ -182,7 +182,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Aditya Mangla - [@aadimangla](https://twitter.com/aadimangla) - aadimangla@gmail.com - [website](http://www.adityamangla.com/index.html)
+Aditya Mangla - [@aadimangla](https://twitter.com/aadimangla) - aadimangla@gmail.com - [adityamangla.com](http://www.adityamangla.com/index.html)
 
 Project Link: [https://github.com/aadimangla/Rasa-Chatbot](https://github.com/aadimangla/Rasa-Chatbot)
 
